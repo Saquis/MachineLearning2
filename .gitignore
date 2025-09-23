@@ -1,0 +1,15 @@
+# Datasets pesados
+datasets/
+*.csv
+*.rar
+*.zip
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de entorno/virtual
+.virtual_documents/
